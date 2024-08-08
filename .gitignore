@@ -1,0 +1,4 @@
+# From the initial Homer template
+*.dist
+*.sample
+themes/
