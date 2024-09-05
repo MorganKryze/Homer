@@ -202,6 +202,16 @@ services:
         url: "https://visualgo.net/"
         target: "_blank"         
   
+  - name: Media
+    icon: fas fa-image
+    items:
+      - name: Jellyfin
+        logo: "assets/tools/jellyfin.png"
+        subtitle: Media library for TV shows, movies, books, music...
+        tag: self-hosted
+        keywords: jellyfin tv media film series movies
+        url: "https://tv.mykodelab.dev/"
+        target: "_blank"   
 
   # - name: 
   #   icon: 
