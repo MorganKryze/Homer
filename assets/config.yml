@@ -214,6 +214,17 @@ services:
         url: "https://tv.mykodelab.dev/"
         target: "_blank"   
 
+  - name: Security
+    icon: fas fa-key
+    items:
+      - name: Bitwarden
+        icon: fas fa-shield-halved
+        subtitle: OSS Password manager
+        tag: self-hosted
+        keywords: bitwarden password manager security
+        url: "https://vault.mykodelab.dev/"
+        target: "_blank"   
+
   # - name: 
   #   icon: 
   #   items:
