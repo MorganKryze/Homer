@@ -135,8 +135,9 @@ services:
       - name: OpenSpeedTest
         icon: fas fa-stopwatch
         subtitle: Open-source and reliable speedtest
+        tag: self-hosted
         keywords: speedtest opensource
-        url: "https://openspeedtest.com/"
+        url: "https://speedtest.mykodelab.dev/"
         target: "_blank" 
 
 
