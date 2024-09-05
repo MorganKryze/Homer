@@ -116,6 +116,13 @@ services:
         keywords: prompt website generator
         url: "https://v0.dev/"
         target: "_blank"  
+      - name: Lingva
+        icon: fas fa-language
+        subtitle: OSS translator
+        tag: self-hosted
+        keywords: translator oss
+        url: "https://translate.mykodelab.dev/"
+        target: "_blank"
       
   - name: Comparatives
     icon: fa-solid fa-scale-balanced
