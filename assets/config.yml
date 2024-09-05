@@ -222,7 +222,7 @@ services:
         subtitle: OSS Password manager
         tag: self-hosted
         keywords: bitwarden password manager security
-        url: "https://vault.mykodelab.dev/"
+        url: "https://bitwarden.mykodelab.dev/"
         target: "_blank"   
 
   # - name: 
